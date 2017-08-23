@@ -10,6 +10,6 @@ after_success:
 notifications:
   email:
     recipients:
-    knutwiigskole@gmail.com
+    - knutwiigskole@gmail.com
     on_success: never
     on_failure: always
