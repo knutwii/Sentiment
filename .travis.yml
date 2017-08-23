@@ -11,5 +11,5 @@ notifications:
   email:
     recipients:
     knutwiigskole@gmail.com
-    on_seccess: never
+    on_success: never
     on_failure: always
